@@ -8,7 +8,7 @@ A production-ready AI-powered customer support chatbot built with the **Claude A
 
 ## Preview
 
-![NexaSupport AI Screenshot](screenshot.png)
+![NexaSupport AI Screenshot](screenshot.PNG)
 
 ---
 
