@@ -2,7 +2,7 @@
 
 A production-ready AI-powered customer support chatbot built with the **Claude API (claude-sonnet-4-6)**. Designed for gaming and SaaS companies, it handles multi-category support conversations with real-time AI responses, escalation detection, and a clean responsive UI.
 
-> 🔗 **[Live Demo](https://your-username.github.io/ai-customer-support-assistant)**
+> 🔗 **[Live Demo](https://ThamimHayath.github.io/ai-customer-support-assistant)**
 
 ---
 
@@ -42,11 +42,11 @@ A production-ready AI-powered customer support chatbot built with the **Claude A
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/ai-customer-support-assistant.git
+git clone https://github.com/ThamimHayath/ai-customer-support-assistant.git
 cd ai-customer-support-assistant
 ```
 
-### 2. Add your API key
+### 2. Add API key
 
 Open `index.html` and replace the placeholder on line ~170:
 
@@ -74,7 +74,7 @@ No build step, no `npm install` — it works immediately.
 1. Push the repo to GitHub
 2. Go to **Settings → Pages**
 3. Set source to **Deploy from a branch → main → / (root)**
-4. Your live URL will be: `https://your-username.github.io/ai-customer-support-assistant`
+4. Live URL will be: `https://ThamimHayath.github.io/ai-customer-support-assistant`
 
 ---
 
@@ -99,7 +99,8 @@ The full conversation history is sent with every request, giving Claude context 
 ai-customer-support-assistant/
 ├── index.html       # Entire app — HTML, CSS, and JS in one file
 ├── README.md        # This file
-└── screenshot.png   # Demo screenshot (add your own)
+└── screenshot.png   # Demo screenshot 
+
 ```
 
 ---
@@ -122,7 +123,7 @@ Built by **Thamim M** — Senior Consultant in Gaming & SaaS technical support w
 
 - 🌐 [thamim.online](https://thamim.online)
 - 💼 [linkedin.com/in/thamim-m-mtech](https://linkedin.com/in/thamim-m-mtech)
-- 🐙 [github.com/your-username](https://github.com/your-username)
+- 🐙 [github.com/ThamimHayath](https://github.com/ThamimHayath)
 
 ---
 
